@@ -1,4 +1,4 @@
-# VectorShift Frontend Technical Assessment
+# Pipeline Builder
 
 This repo contains:
 
